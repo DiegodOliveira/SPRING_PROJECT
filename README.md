@@ -11,5 +11,5 @@ This repository isn't limited to pure Java language. I'm also exploring various 
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 <p align="center">
-  <img src="https://i.gifer.com/7JPO.gif" alt="Animated GIF" width="500">
+  <img src="https://i.pinimg.com/originals/0b/d9/a2/0bd9a29a53ba553b2fc84e2e0402bb3f.gif" alt="Animated GIF" width=1000 height=400>
 </p>
